@@ -1,0 +1,83 @@
+    body {
+        background-color: #E6E6FA;
+        color: #0f141e;
+        font-size: 16px;
+        font-weight: normal;
+        font-family: "Playfair Display", serif;
+        }
+    
+    .page {
+        width: auto;
+        padding: 15px;
+        }
+
+    h2, h3 {
+        font-style: italic;
+        margin: 0px;
+        padding: 0px;
+        }
+    
+    h2  {
+        color:#FF6347;
+        }
+
+    h3 {
+        color:#DC143C;
+        }
+
+    p   { 
+        text-indent: 20px;
+        margin: 0px;
+        margin-bottom: 5px;
+        padding: 0px;
+        }
+
+    a {
+        text-decoration: none;
+        }
+
+    a:hover {
+        color: #FF6347;
+        text-decoration: underline;
+        }
+
+    .color_LemonChiffon {
+        background: #FFFACD;
+        padding: 15px;
+        border-radius: 10px;
+        }
+
+    .color_PaleGreen {
+        background: #98FB98;
+        padding: 15px;
+        border-radius: 10px;
+        }
+
+    .color_LightPink {
+        background: #FFB6C1;
+        padding: 15px;
+        border-radius: 10px;
+        }
+        
+    .avatar {
+        max-width: 170px;
+        border-radius: 10px;
+        margin-right: 10px;
+        float:left;
+        }
+    
+    .interview_text h3 {
+        color:#00008B;
+        }
+
+    .picture_book {
+        max-width: 150px;
+        max-height: 230px;
+        border-radius: 5px;
+        margin-right: 10px;
+        float:left;
+        }
+
+    .Dragons_text {
+        min-height: 230px;
+    }
